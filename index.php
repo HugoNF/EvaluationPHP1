@@ -1,5 +1,6 @@
 <?php
 
+//Variables
 $Prenom = array ('Hugo');
 $Nom = array ('Ratel');
 $Adresse = array ('75 Chaussée du Roy');
@@ -9,7 +10,7 @@ $Email = array ('hugo@gmail.com');
 $Telephone = array ('0700000000');
 $date = array ('1998-07-22');
 
-
+//Boucle
 for ($tableau = 0; $tableau < 1; $tableau++)
 {
     echo  '<ul>' . '<li>' .'<b>'.'Prenom :'.'</b>' . ' ' . $Prenom[$tableau] .'<li>'.'<b>'.'Nom :'.'</b>' . ' ' .
