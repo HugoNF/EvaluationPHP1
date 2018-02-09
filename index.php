@@ -7,7 +7,7 @@ $CodePostal= array ('76113');
 $Ville = array ('Sahurs');
 $Email = array ('hugo@gmail.com');
 $Telephone = array ('0700000000');
-$date = array('1998-07-22');
+$date = array ('1998-07-22');
 
 
 for ($numero = 0; $numero < 1; $numero++)
